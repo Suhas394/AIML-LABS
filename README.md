@@ -5,3 +5,5 @@
 [Lab-3](https://github.com/Suhas394/AIML-LABS/blob/main/LAB-3%20(1).ipynb)
 
 [Lab-4](https://github.com/Suhas394/AIML-LABS/blob/main/Lab%204%20(1).ipynb)
+
+[Lab-5](https://github.com/Suhas394/AIML-LABS/blob/main/Lab05%20(1).ipynb)
