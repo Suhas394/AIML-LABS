@@ -14,4 +14,4 @@
 
 [Lab-8](https://github.com/Suhas394/AIML-LABS/blob/main/Lab-08.ipynb)
 
-[lab-9](https://github.com/Suhas394/AIML-LABS/blob/main/AIML_LAB9.ipynb)
+[Lab-9](https://github.com/Suhas394/AIML-LABS/blob/main/AIML_LAB9.ipynb)
